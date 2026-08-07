@@ -76,5 +76,5 @@
 - [x] Add coupon input/apply/remove UX to checkout with live summary update
 - [x] Add image zoom on product detail (hover zoom on desktop)
 - [x] Add SEO: meta description, OG tags, robots.txt, sitemap.xml
-- [ ] Verify dark mode across storefront, account, admin, cart, checkout
-- [ ] Verify keyboard navigation and reduced-motion behavior
+- [x] Verify dark mode across storefront, account, admin, cart, checkout
+- [x] Verify keyboard navigation and reduced-motion behavior
