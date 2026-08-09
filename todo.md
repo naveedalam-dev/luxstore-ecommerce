@@ -70,8 +70,8 @@
 ## QA & Delivery
 - [x] Vitest unit tests for backend routers
 - [x] Visual verification via screenshots (desktop + mobile)
-- [ ] Checkpoint saved
-- [ ] Deliver to user
+- [x] Checkpoint saved
+- [x] Deliver to user
 ## Remaining gaps to address
 - [x] Add coupon input/apply/remove UX to checkout with live summary update
 - [x] Add image zoom on product detail (hover zoom on desktop)
